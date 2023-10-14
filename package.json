@@ -1,0 +1,10 @@
+{
+  "name": "tailwindcss-course",
+  "version": "v0.0.1-231013",
+  "license": "none",
+  "description": "Repositório do curso de Tailwind CSS",
+  "private": true,
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
