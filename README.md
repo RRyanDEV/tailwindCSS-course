@@ -10,6 +10,7 @@
 <img alt="TWC" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
 </a>
 
+<br>
 <img src="https://img.shields.io/badge/version-1.0.0-231014?" height="22" alt="Version"/>
 
 <br>
